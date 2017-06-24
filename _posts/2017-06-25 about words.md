@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-06-25 00:20:19 +0800
 categories: jekyll
-tag: 英语;学习;成长
+tag: 英语
 ---
 
 * content
