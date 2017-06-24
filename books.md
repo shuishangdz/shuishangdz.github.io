@@ -1,4 +1,4 @@
----
+《》---
 layout: post
 title: 我的书单
 permalink: /books/
@@ -8,7 +8,7 @@ permalink: /books/
 {:toc}
 
 
-2016书单
+2017书单
 -----------------------------------------------------------------
 
 + 《Think in java 4th》
@@ -18,7 +18,4 @@ permalink: /books/
 + 《深入JVM虚拟机》
 + 《Head first设计模式》
 + 《算法(第四版)》
-+ 《Maven实战》
-+ 《HTTP协议详解》
-+ 《TCP/IP协议详解-卷一》
-+ 《阿弥陀佛么么哒》
++ 《我们赖以生存的隐喻》
