@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "关于英语单词的沉思"
 date:   2017-06-25 00:20:19 +0800
-categories: jekyll
+categories: english
 tag: 英语
 ---
 
