@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  《智识的生产技术》速度和启发
+title:  《智识的生产技术》速读和启发
 date:   2017-11-12 00:00:00 +0800
 
 categories: document
